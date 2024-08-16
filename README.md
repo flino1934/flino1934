@@ -35,9 +35,10 @@ Outro resumo de um projeto relevante. Mostre as tecnologias usadas e o impacto d
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flino1934&show_icons=true&theme=radical)
 
 ## Linguagens mais utilizadas
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flino1934&layout=compact&theme=radical)
+
 
