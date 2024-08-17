@@ -37,6 +37,9 @@ Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidad
 ## GitHub Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flino1934&theme=radical)
 
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flino1934&layout=compact&theme=radical)
+
 
 
 
