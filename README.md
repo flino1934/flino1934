@@ -38,7 +38,7 @@ Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidad
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flino1934&theme=radical)
 
 ##
-![Metrics](https://metrics.lecoq.io/flino1934?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
+![Compact Language Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flino1934&theme=radical)
 
 
 
