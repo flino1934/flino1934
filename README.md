@@ -34,4 +34,6 @@ Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidad
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flino1934&layout=compact&theme=radical)
 
+![GIF Programando em Java](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 
