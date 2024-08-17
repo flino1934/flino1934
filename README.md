@@ -34,6 +34,7 @@ Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidad
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flino1934&layout=compact&theme=radical)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flino1934&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=flino1934&theme=radical)
 
 
 
