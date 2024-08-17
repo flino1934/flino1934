@@ -38,7 +38,8 @@ Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidad
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flino1934&theme=radical)
 
 ##
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=flino1934&theme=radical)
+![GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flino1934&theme=radical)
+
 
 
 
