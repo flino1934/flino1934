@@ -11,7 +11,7 @@
 💻 **Sempre aprendendo e ensinando Java**  
 🚀 **Apaixonado por desenvolvimento de software e boas práticas de programação**
 
-Sou um desenvolvedor em constante evolução, com foco em criar aplicações eficientes e de alta qualidade. Adoro compartilhar meu conhecimento e aprender com a comunidade de desenvolvedores.
+Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidade. Tenho experiência tanto com tecnologias legadas relacionadas a Java quanto com as mais modernas abordagens da linguagem.
 
 ## Minhas Habilidades
 
@@ -19,14 +19,6 @@ Sou um desenvolvedor em constante evolução, com foco em criar aplicações efi
 - ⚙️ **Frameworks:** Spring Boot, Hibernate, JPA
 - 🛠️ **Ferramentas:** Git, Maven, Gradle, Docker
 - 🗄️ **Bancos de Dados:** MySQL, PostgreSQL, H2
-
-## Projetos Destacados
-
-### [Nome do Projeto 1](https://github.com/seu-usuario/projeto1)
-Um breve resumo do projeto. Descreva o que ele faz, e qual foi o seu papel no desenvolvimento.
-
-### [Nome do Projeto 2](https://github.com/seu-usuario/projeto2)
-Outro resumo de um projeto relevante. Mostre as tecnologias usadas e o impacto do projeto.
 
 ## Conecte-se Comigo
 
