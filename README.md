@@ -25,14 +25,13 @@ Sou um desenvolvedor, focado em criar aplicações eficientes e de alta qualidad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lino-93355b139/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=red)]((https://github.com/flino1934))
+## Linguagens mais utilizadas
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flino1934&layout=compact&theme=radical)
 
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flino1934&show_icons=true&theme=radical)
-
-## Linguagens mais utilizadas
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flino1934&layout=compact&theme=radical)
 
 ## GitHub Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flino1934&theme=radical)
